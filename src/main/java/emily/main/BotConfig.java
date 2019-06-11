@@ -111,13 +111,13 @@ public class BotConfig {
 
     //token used to login to discord
     @ConfigurationOption
-    public static String BOT_TOKEN = "mybottokenhere";
+    public static String BOT_TOKEN = "NTg3OTgyNDgyNzUwNzAxNTgy.XP-fYg.OpclwtgV6ZiYnzebVhKcoBG3T48";
 
     //prefix for all commands !help etc.
     @ConfigurationOption
     public static boolean BOT_CHATTING_ENABLED = false;
 
-    //default prefix to mark messages as commands
+   //prefix
     @ConfigurationOption
     public static String BOT_COMMAND_PREFIX = "!";
 
